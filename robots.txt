@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pintrendfinder.com/sitemap.xml
+Sitemap: https://mirzacreative.github.io/pintrendfinder/sitemap.xml
