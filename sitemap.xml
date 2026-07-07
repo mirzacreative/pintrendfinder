@@ -1,48 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
     <loc>https://mirzacreative.github.io/pintrendfinder/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
-
-  <url>
-    <loc>https://mirzacreative.github.io/pintrendfinder/privacy.html</loc>
-  </url>
-
-  <url>
-    <loc>https://mirzacreative.github.io/pintrendfinder/terms.html</loc>
-  </url>
-
   <url>
     <loc>https://mirzacreative.github.io/pintrendfinder/blog-trending-pinterest-keywords.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://mirzacreative.github.io/pintrendfinder/blog-pinterest-seo-etsy-sellers.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://mirzacreative.github.io/pintrendfinder/blog-pinterest-board-name-ideas.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://mirzacreative.github.io/pintrendfinder/blog-canva-template-niches.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://mirzacreative.github.io/pintrendfinder/blog-bloggers-pinterest-traffic.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://mirzacreative.github.io/pintrendfinder/blog-pinterest-pin-design-tips.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://mirzacreative.github.io/pintrendfinder/blog-digital-products-pinterest.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://mirzacreative.github.io/pintrendfinder/blog-pinterest-seo-checklist.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
-
+  <url>
+    <loc>https://mirzacreative.github.io/pintrendfinder/privacy.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://mirzacreative.github.io/pintrendfinder/terms.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
 </urlset>
