@@ -61,15 +61,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://mirzacreative.github.io/pintrendfinder/blog-pinterest-pin-descriptions.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mirzacreative.github.io/pintrendfinder/privacy.html</loc>
     <lastmod>2026-07-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mirzacreative.github.io/pintrendfinder/terms.html</loc>
     <lastmod>2026-07-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
