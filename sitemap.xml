@@ -84,4 +84,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
+<url>
+  <loc>https://mirzacreative.github.io/pintrendfinder/blog-pinterest-trends-keywords.html</loc>
+  <lastmod>2026-11-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
 </urlset>
